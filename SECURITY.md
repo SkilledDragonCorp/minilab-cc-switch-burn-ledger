@@ -30,7 +30,7 @@ Do not use a dedicated security mailbox for this repo — none exists.
 | Control | Pin / command |
 | --- | --- |
 | gitleaks | `v8.30.1` (`.pre-commit-config.yaml` + CI `security` job downloads the linux_x64 release tarball, verifies SHA256 `551f6fc83ea457d62a0d98237cbad105af8d557003051f41f3e7ca7b3f2470eb`, then runs `./gitleaks git --redact --verbose .`) |
-| osv-scanner | `v2.7.0` linux_amd64 SHA256 `160c6253e2922e9e0a6a9771c5c4c40a4b3c6090b34a3cdd5e80c96cc2e4218b` on upstream `pnpm-lock.yaml` + `src-tauri/Cargo.lock` |
+| osv-scanner | `v2.7.0` linux_amd64 SHA256 `160c6253e2922e9e0a6a9771c5c4c40a4b3c6090b34a3cdd5e80c96cc2e4218b` on upstream `pnpm-lock.yaml` + `src-tauri/Cargo.lock` via `osv-scanner.toml` (IgnoredVulns for pin `479964f2` only) |
 | Dependency audit | `bun audit` on the lab lockfile |
 | Upstream pin | `farion1231/cc-switch` @ `479964f2ef59e291f563218ac674a1fd82dcdbd3` (MIT), cloned into gitignored `vendor/cc-switch` |
 

@@ -1,0 +1,391 @@
+# Upstream pin farion1231/cc-switch@479964f2 — advisories in vendored lockfiles.
+# Lab does not patch upstream deps; ignore until the pin upgrades.
+# Re-evaluate when bumping PIN in scripts/vendor-cc-switch.sh.
+
+[[IgnoredVulns]]
+id = "GHSA-28wg-ghj8-5hjv"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-2mjx-qc3c-rqvc"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-2v37-7h3g-55p8"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-394x-vwmw-crm3"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-3pv8-6f4r-ffg2"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-3v7f-55p6-f55p"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-4w2j-m93h-cj5j"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-4w7w-66w2-5vf9"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-4x5r-pxfx-6jf8"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-58qx-3vcg-4xpx"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-5gmw-xhrv-c9v3"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-5xrq-8626-4rwp"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-65p9-r9h6-22vj"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-67mh-4wv8-2f99"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-68fv-2mgg-jv7q"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-6g55-p6wh-862q"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-73wf-gq98-2v4g"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-7gcf-g7xr-8hxj"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-7gmj-67g7-phm9"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-7w5x-hrqm-74c2"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-82fw-gwwq-j7x9"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-82j2-j2ch-gfr8"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-85c8-ppgw-ccpr"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-8c75-8mhr-p7r9"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-93m4-6634-74q7"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-965h-392x-2mh5"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-96hv-2xvq-fx4p"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-9f94-5g5w-gf6r"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-c2c7-rcm5-vvqj"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-c83g-rgw3-j3cx"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-cq8v-f236-94qc"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-fx2h-pf6j-xcff"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-fxqj-rqcc-2cmp"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-g4jq-h2w9-997c"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-gchp-q4r4-x4ff"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-ghm9-cr32-g9qj"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-hfpc-8r3f-gw53"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-hmw2-7cc7-3qxx"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-hppc-g8h3-xhp3"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-j4xf-2g29-59ph"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-jqfw-vq24-v9c3"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-mw96-cpmx-2vgc"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-p9ff-h696-f583"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-phqj-4mhp-q6mq"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-pqf5-4pqq-29f5"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-pwjx-qhcg-rvj4"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-qx2v-qp2m-jg93"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-r28c-9q8g-f849"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-r4xh-jqrq-34v2"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-rj75-hqrm-r3gf"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-v2wj-q39q-566r"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-v3rj-xjv7-4jmq"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-v6wh-96g9-6wx3"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-vfj7-8cjw-p6xm"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-vw5v-4f2q-w9xf"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-w5vr-8v7q-w6rv"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-w9m9-85wc-3x92"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-wrw7-89jp-8q8g"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-xgp8-3hg3-c2mh"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-xmgf-hq76-4vx2"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-xp3w-r5p5-63rr"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-xv59-967r-8726"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "GHSA-xwg4-73v4-xw9w"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2024-0370"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2024-0429"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2024-0449"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2025-0057"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2025-0075"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2025-0080"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2025-0081"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2025-0098"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2025-0100"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0044"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0045"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0046"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0047"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0048"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0049"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0067"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0068"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0097"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0098"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0099"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0104"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0185"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0190"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0194"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0195"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0205"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0221"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0235"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0258"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0285"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0338"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0339"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0340"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"
+
+[[IgnoredVulns]]
+id = "RUSTSEC-2026-0342"
+reason = "Pinned upstream cc-switch lockfile at 479964f2; not introduced by this lab"

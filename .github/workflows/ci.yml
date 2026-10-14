@@ -119,7 +119,7 @@ jobs:
           chmod +x osv-scanner
 
       - name: osv-scanner on upstream lockfiles
-        run: ./osv-scanner scan source --lockfile vendor/cc-switch/pnpm-lock.yaml --lockfile vendor/cc-switch/src-tauri/Cargo.lock
+        run: ./osv-scanner scan source --config osv-scanner.toml --lockfile vendor/cc-switch/pnpm-lock.yaml --lockfile vendor/cc-switch/src-tauri/Cargo.lock
 
       - name: Install pinned gitleaks
         run: |
