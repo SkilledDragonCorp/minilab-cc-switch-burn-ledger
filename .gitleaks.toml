@@ -1,0 +1,4 @@
+title = "minilab-cc-switch-burn-ledger"
+
+[extend]
+useDefault = true
